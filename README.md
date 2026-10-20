@@ -22,6 +22,10 @@
 
 ---
 
+<p align="center">
+  <img src="docs/demo.gif" alt="AI Rules Builder: a package.json is dropped in, 14 dependencies are detected, suggested rule sets are added and the AGENTS.md preview grows to include React rules" width="960">
+</p>
+
 Create, preview, and share rules-for-AI files for AI coding agents. State lives in `localStorage` or in share URLs; the only server surface is a read-only JSON API that AI tools can call programmatically.
 
 ## Features
